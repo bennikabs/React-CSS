@@ -10,3 +10,9 @@ h1 {
   font-size: 34px;
   line-height: 48px;
 }
+ul .european-cities {
+  color: blue;
+}
+ul .american-cities {
+  color: red;
+}
