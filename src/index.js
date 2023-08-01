@@ -17,10 +17,10 @@ root.render(
 
       <ul>
         <li>Sydney</li>
-        <li>Paris</li>
-        <li>Montreal</li>
-        <li>Lisbon</li>
-        <li>San Francisco</li>
+        <li className="european-cities">Paris</li>
+        <li className="american-cities">Montreal</li>
+        <li className="european-cities">Lisbon</li>
+        <li className="american-cities">San Francisco</li>
       </ul>
     </div>
   </StrictMode>
